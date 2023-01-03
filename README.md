@@ -9,4 +9,4 @@ Multicells.py
 ErrorIntroduction.py
 -> used to introduce error in position and compute the propagation
 
-For more general infos, check the rapport.
+For more general infos, please check the rapport.
